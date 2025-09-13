@@ -11,7 +11,7 @@ The TBA/FMS Offseaon Companion is a Docker container that runs on the FTA Toughb
 
  1. Download and extract the latest release source code from the [releases page](https://github.com/the-blue-alliance/fms-companion-dist/releases) (under the "Assets" drop down)
  2. Open a Powershell terminal and navigate to that directory
- 3. Run `docker-compose up` to launch the Companion
+ 3. Run `docker-compose up` to launch the Companion (you may need to manually open the Docker Desktop application first)
 
 ### Without Internet
 
@@ -24,7 +24,7 @@ The TBA/FMS Offseaon Companion is a Docker container that runs on the FTA Toughb
  1. Copy the files from above onto the Toughbook
  2. Open a Powershell terminal and navigate to the new files
  3. Run `docker load --input .\tba-offseason-companion-image.tar`
- 4. Run `docker-compose up` to launch the Companion
+ 4. Run `docker-compose up` to launch the Companion  (you may need to manually open the Docker Desktop application first)
 
 ## Setup
 
