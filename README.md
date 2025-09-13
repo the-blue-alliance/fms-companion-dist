@@ -18,7 +18,7 @@ The TBA/FMS Offseaon Companion is a Docker container that runs on the FTA Toughb
 
 **Before the Event**
  1. Download and extract the latest release source code from the [releases page](https://github.com/the-blue-alliance/fms-companion-dist/releases) (under the "Assets" drop down)
- 2. Download the `tba-offseason-companion-image-linux-amd64.tar` artifact from the release for your machine's architecture. (If you have an Apple Silicone Mac, download  `tba-offseason-companion-image-linux-amd64.tar` instead)
+ 2. Download the `tba-offseason-companion-image-linux-amd64.tar` artifact from the release for your machine's architecture. (If you have an Apple Silicone Mac, download  `tba-offseason-companion-image-linux-arm64.tar` instead)
  3. Copy these files onto a flash drive and bring it with you to the event
 
 **At the Event**
