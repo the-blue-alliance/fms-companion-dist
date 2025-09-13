@@ -10,7 +10,7 @@ _Are you the FTA at an event using the Companion?_
 
 👉 Follow the setup instructions [here](https://github.com/the-blue-alliance/fms-companion-dist/wiki/FTA-Setup)
 
-## User Guide
+## Scorekeeper Guide
 
 _Are you a Scorekeeper using the Companion at an event?)_
 
