@@ -1,3 +1,4 @@
+name: tba-offseason-companion-release
 services:
   app:
     image: "phillopreiato/tba-offseason-companion:latest"
