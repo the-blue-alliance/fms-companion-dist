@@ -1,0 +1,4 @@
+FMS_URL=http://10.0.100.5
+TBA_URL=https://www.thebluealliance.com/api/trusted/v1
+DB_PATH=/app/db/tba-offseason-companion.sqlite
+DB_BACKUP_PATH=/app/db-backup/tba-offseason-backup-{TIMESTAMP}.sqlite

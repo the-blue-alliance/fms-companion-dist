@@ -1,0 +1,15 @@
+services:
+  app:
+    image: "phillopreiato/tba-offseason-companion:latest"
+    volumes:
+      - db_storage:/app/db
+      - type: bind
+        source: "${USERPROFILE}/Documents/tba-companion"
+        target: /app/db-backup
+    ports:
+      - 6001:6001
+    env_file:
+      - ./backend/env/production
+
+volumes:
+  db_storage:
