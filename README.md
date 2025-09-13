@@ -8,10 +8,10 @@ _**Note:** For 2025 Offseason Events, the Companion is in a limited beta. If you
 
 _Are you the FTA at an event using the Companion?_
 
-👉 Follow the setup instructions [here](https://github.com/the-blue-alliance/fms-companion-dist/blob/main/FTA-Setup.md)
+👉 Follow the setup instructions [here](https://github.com/the-blue-alliance/fms-companion-dist/wiki/FTA-Setup)
 
 ## User Guide
 
 _Are you a Scorekeeper using the Companion at an event?)_
 
-👉 Refer the user guide [here](https://github.com/the-blue-alliance/fms-companion-dist/blob/main/User-Guide.md)
+👉 Refer the user guide [here](https://github.com/the-blue-alliance/fms-companion-dist/wiki/Scorekeeper-Guide)
