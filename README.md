@@ -12,6 +12,6 @@ _Are you the FTA at an event using the Companion?_
 
 ## Scorekeeper Guide
 
-_Are you a Scorekeeper using the Companion at an event?)_
+_Are you a Scorekeeper using the Companion at an event?_
 
 👉 Refer the user guide [here](https://github.com/the-blue-alliance/fms-companion-dist/wiki/Scorekeeper-Guide)
