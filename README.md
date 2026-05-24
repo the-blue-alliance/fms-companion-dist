@@ -2,7 +2,7 @@
 
 The TBA/FMS Offseaon Companion is a Docker container that runs on the FTA Toughbook, integrates with FMS, and performs data sync to TBA.
 
-_**Note:** For 2025 Offseason Events, the Companion is in a limited beta. If you are interested in using this, reach out in FTA Slack for more._
+_If you are interested in using this, reach out in FTA Slack for more._
 
 ## FTA Setup
 
