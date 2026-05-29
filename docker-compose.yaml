@@ -5,7 +5,7 @@ services:
     volumes:
       - db_storage:/app/db
       - type: bind
-        source: "${USERPROFILE}/Documents/tba-companion"
+        source: "${TBA_COMPANION_BACKUP_DIR:-./db-backup}"
         target: /app/db-backup
     ports:
       - 6001:6001
